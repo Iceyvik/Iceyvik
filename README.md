@@ -1,5 +1,7 @@
 # 💫 About Me:
 I am a B.Tech Computer Science student at JIIT Noida with a strong passion for software development, problem-solving, and continuous learning. My primary interests lie in Data Structures & Algorithms, Competitive Programming, Full-Stack Development, and Open Source. I enjoy building scalable web applications, exploring modern technologies, and turning ideas into practical solutions. Currently, I am focused on strengthening my problem-solving skills, developing MERN stack projects, and contributing to projects that create real-world impact.
+Checkout My new Project: https://github.com/orgs/Team-KBG/repositories
+Live link: https://smart-city-cms.vercel.app/
 
 
 ## 🌐 Socials:
